@@ -1,0 +1,11 @@
+a = 10
+b = 3
+here a and b are variables
+we can perform arithemetic operatios +, - , * , /
+Here in division we get result in float value if we code in higher version of Phyton 3.7
+To get only integer we can use //
+To get modulo use %
+/n means new line
+print('ananth's program') gives syntax error due to mismatch of "'".  1. print("ananth's program") 2. print('ananth\'s program')
+print('c:\ananth\new\program') will result like c/ananth  and in the next line ew/program. To avoid this issue we can code like 
+print (r'c:\ananth\new\program')
